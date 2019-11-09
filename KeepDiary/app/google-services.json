@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874342885558",
+    "firebase_url": "https://aichchat-e83f3.firebaseio.com",
+    "project_id": "aichchat-e83f3",
+    "storage_bucket": "aichchat-e83f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874342885558:android:54d2f99461442ba5",
+        "android_client_info": {
+          "package_name": "com.infiam.keepdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874342885558-o6jalqqcjpnqlk03i9c1hr85pl0ets07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infiam.keepdiary",
+            "certificate_hash": "0cc7e584c3902f5c9a178cd4dd1633eed04ef737"
+          }
+        },
+        {
+          "client_id": "874342885558-9ec7b7ch8t07fsfrrrf690de2jgj41sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Ps9zQjGF7QLftHoV9UWZk70Su-C0jwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874342885558-9ec7b7ch8t07fsfrrrf690de2jgj41sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
